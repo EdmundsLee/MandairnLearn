@@ -1,0 +1,6 @@
+一:A single horizontal stroke, indicating the number one.
+二:Two horizontal strokes, indicating the number two.
+三:Three horizontal strokes, indicating the number three.
+上:A line above the base, indicating up.
+下:A line below the base, indicating down.
+丘:

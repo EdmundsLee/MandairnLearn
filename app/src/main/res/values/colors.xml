@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default Colours -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Cool Colours -->
+    <color name="cool_0">#FFFFFFFF</color>
+    <color name="cool_1">#FFDDEEFF</color>
+    <color name="cool_2">#FFCCDDEE</color>
+    <color name="cool_3">#FFBBCCDD</color>
+    <color name="cool_4">#FFAABBCC</color>
+    <color name="cool_5">#FF99AABB</color>
+    <color name="cool_6">#FF8899AA</color>
+    <color name="cool_7">#FF778899</color>
+    <color name="cool_8">#FF667788</color>
+    <color name="cool_9">#FF556677</color>
+    <color name="cool_a">#FF445566</color>
+    <color name="cool_b">#FF334455</color>
+    <color name="cool_c">#FF223344</color>
+    <color name="cool_d">#FF112233</color>
+    <color name="cool_e">#FF001122</color>
+    <color name="cool_f">#FF000000</color>
+
+    <!-- Warm Colours -->
+    <color name="warm_0">#FFFFFFFF</color>
+    <color name="warm_1">#FFFFEEDD</color>
+    <color name="warm_2">#FFEEDDCC</color>
+    <color name="warm_3">#FFDDCCBB</color>
+    <color name="warm_4">#FFCCBBAA</color>
+    <color name="warm_5">#FFBBAA99</color>
+    <color name="warm_6">#FFAA9988</color>
+    <color name="warm_7">#FF998877</color>
+    <color name="warm_8">#FF887766</color>
+    <color name="warm_9">#FF776655</color>
+    <color name="warm_a">#FF665544</color>
+    <color name="warm_b">#FF554433</color>
+    <color name="warm_c">#FF443322</color>
+    <color name="warm_d">#FF332211</color>
+    <color name="warm_e">#FF221100</color>
+    <color name="warm_f">#FF000000</color>
+
+    <!-- Neutral Colours -->
+    <color name="neut_0">#FFFFFFFF</color>
+    <color name="neut_1">#FFEEEEEE</color>
+    <color name="neut_2">#FFDDDDDD</color>
+    <color name="neut_3">#FFCCCCCC</color>
+    <color name="neut_4">#FFBBBBBB</color>
+    <color name="neut_5">#FFAAAAAA</color>
+    <color name="neut_6">#FF999999</color>
+    <color name="neut_7">#FF888888</color>
+    <color name="neut_8">#FF777777</color>
+    <color name="neut_9">#FF666666</color>
+    <color name="neut_a">#FF555555</color>
+    <color name="neut_b">#FF444444</color>
+    <color name="neut_c">#FF333333</color>
+    <color name="neut_d">#FF222222</color>
+    <color name="neut_e">#FF111111</color>
+    <color name="neut_f">#FF000000</color>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="72dp"
+        android:layout_height="112dp"
+        android:background="@color/cool_3"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/txt_DictWord_Char"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="窗"
+            android:textAlignment="center"
+            android:textColor="@color/cool_d"
+            android:textSize="60dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_DictWord_Pinyin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/cool_a"
+            android:text="chuāng"
+            android:textAlignment="center"
+            android:textColor="@color/warm_0"
+            android:textSize="18dp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

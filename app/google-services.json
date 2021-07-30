@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694217703326",
+    "project_id": "mandarin-tutor",
+    "storage_bucket": "mandarin-tutor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694217703326:android:518c49e28844ce515be08f",
+        "android_client_info": {
+          "package_name": "com.example.mandairnlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694217703326-gmhpd649427sfesr2i4i49rd13qbarbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_PDT7xp6IGwFpK8-IaTkLW7KG5uTcYJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694217703326-gmhpd649427sfesr2i4i49rd13qbarbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

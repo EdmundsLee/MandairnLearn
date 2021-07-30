@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MandairnLearn</string>
+    <string name="app_label">Mandairn Tutor</string>
+    <string name="search">Search</string>
+    <string name="type_in_your_word_here">Type in your word here...</string>
+    <string name="open_ab">Opening Action Bar</string>
+    <string name="close_ab">Closing Action Bar...</string>
+    <string name="button_ce">C-E</string>
+    <string name="button_ec">E-C</string>
+</resources>
